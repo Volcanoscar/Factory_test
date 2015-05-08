@@ -1,0 +1,2052 @@
+/system/bin/linker
+__aeabi_unwind_cpp_pr0
+__aeabi_uidivmod
+__aeabi_unwind_cpp_pr1
+free
+malloc
+memcpy
+__android_log_print
+pthread_mutex_lock
+pthread_mutex_unlock
+strlen
+__stack_chk_fail
+__stack_chk_guard
+printf
+sprintf
+__errno
+strerror
+__aeabi_uidiv
+strcmp
+strtol
+__dso_handle
+strstr
+strrchr
+strchr
+fopen
+time
+fclose
+open
+ioctl
+close
+strcat
+property_get
+sscanf
+pthread_create
+prctl
+gettimeofday
+__aeabi_idiv
+__aeabi_idivmod
+read
+memset
+write
+fread
+stat
+__sF
+__INIT_ARRAY__
+__FINI_ARRAY__
+_edata
+__bss_start
+_end
+strcpy
+usleep
+strncmp
+strncpy
+atol
+property_set
+atoi
+localtime
+strncat
+strtoul
+socket_local_client
+socket_local_server
+fgets
+strtok_r
+accept
+select
+chmod
+CheckCommandValidate
+LogPrintUart
+strcasestr
+gLogLevel
+GetParameter
+GetAttr
+GetParam
+strtok
+MakeResponse
+gUartFd
+FactoryMakeDirectory
+fsync
+InitTestNVFiles
+GetFullTestNV
+SetFullTestNV
+GetFullHistNv
+DelHistNv
+GetFullFdata
+SetFullFdata
+GetFdata
+SetFdata
+SetTestNV
+FactoryStrupr
+GetTestNV
+GetTextFromFile
+SetText
+CheckFileExistance
+ConvertAscii2Hex
+CountNumberOfChar
+SendIntent
+IsMountedPartition
+WakeUnLock
+FactoryStrncasestr
+DoDumpState
+IsShipBuild
+dlopen
+dlerror
+dlsym
+dlclose
+AES_encrypt
+AES_decrypt
+strncasecmp
+strcasecmp
+AES_set_encrypt_key
+AES_set_decrypt_key
+fwrite
+fflush
+SHA1
+sigaction
+RegisterUnsolicitedHandler
+OpenClient_RILD
+Connect_RILD
+CloseClient_RILD
+InvokeOemRequestHookRaw
+SetClientData
+GetClientData
+SecNativeFeature_getString
+cops_context_destroy
+cops_context_create
+cops_read_imei
+cops_read_data
+cops_bind_properties
+cops_simlock_lock
+cops_simlock_verify_control_keys
+cops_simlock_get_status
+cops_util_find_parameter
+cops_set_custom_data
+cops_simlock_verify_mck
+__libc_init
+capset
+setuid
+sleep
+lrand48
+srand48
+localtime_r
+mktime
+fmod
+libutils.so
+libnetutils.so
+liblog.so
+libcutils.so
+libhardware_legacy.so
+libatparser.so
+libomission_avoidance.so
+libpower.so
+libfactoryutil.so
+libdl.so
+libcrypto.so
+libsecril-client.so
+libsecnativefeature.so
+libcops.so
+libtee.so
+libc.so
+libstdc++.so
+libm.so
+HxDpG
+HxDpG
+TXxO
+h~DvI
+ 3FvMyD
+hsI3F:F
+}D-h+h+
+8F1FBF
+ iN@
+VXhI
+yD:F3F
+dIyD
+ cNO
+yD:F3F
+_IyD
+ :F3F
+8F1FBF
+ WN@
+DVI~D
+yD:F3F
+hRI3F:F
+8F1FBF
+]XIN
+D~DHI:F
+hDI:F
+yD3F
+8F1FBF
+ <N@
+^X#h
+D~D:I:F
+"h6I
+8F1FBF#h
+ .N@
+_Xci
+D~D,I:F
+bi(I
+yD:F
+8F1FBFci
+3zD!F
+ FyD
+ :I|DyD"F
+ "FyD
+%`e`
+ *I}DyD*F
+ *FyD
+$I F
+!H"N!F"MxD
+~D}D I
+ 2FyD+F
+ 2F+FyD
+0F)F"F
+"~D6h
+|D4M3h
+}D-h
+ (I|DyD"F
+ "FyD
+JyDzD
+JyDzD
+ F3h
+!8hs
+VHahxD
+UHUIxDyDUM
+}DTI|D
+ yD*F#FRN
+ *FyD#F
+~D6h1h
+(F!F
+ )F"F
+@HAIxDyD
+ >I|DyD"F
+ "FyD
+|DyD"F
+yD"F
+|DyD"F
+ "FyD
+TNTM
+~D6hSL}DSI0h|DyD*F#F
+ #FyD*F
+(F!F
+ENFJ{D, +`
+~DzDn` F
+@H@N
+"!FxD
+~D>I
+ 2F#FyD
+ 2FyD#F
+0F!F
+ IFR
+z`3F*F
+ YF*F3F
+(F1F"F
+!F0F
+#|D$h
+I}DyD*F
+!0FO
+ \I;F~D
+ 2FyD;F
+F6I{D	
+/I0F2FyD
+YF2F
+	00F
+ &I;F
+ JF;FyD
+9FBF+F
+@M@L}D@I|D
+yD*F#F
+;I#F*FyD
+1IyD
+H"`"
+9FBF
+(K{D
+'K{D'I
+ 'JyDzD
+$K{D
+#K{D#I
+ #JyDzD
+I|DxDyD
+IxDyD
+N|D~D F
+ 3hyD:F
+}D-h+h
+8F1h"F
+J|DzD0F!h
+"$hyD
+N:F~D3`
+:FyD3h
+8F1h"F
+I|DyD2F#F
+ 2FyD#F
+0F!F
+~D|D
+D2FyD#F
+ 2F#FyD
+0F!F
+I|DyD F
+K8F!F{D
+"F3F
+I|DyD"F
+ "FyD
+N|D~D F
+1F F
+{I|N FyD
+~DzI
+ 2F#FyD
+ 2FyD#F
+0F!F
+qOCFqI
+jICF:FyD
+ ]I|DyD"F
+ "FyD
+VHxD
+ UI|DyD"F
+ "FyD
+NHxD
+GN~D0x
+$}D/
+!<HO
+8HxD
+A`)I
+&I&KyD{D
+KzD{D
+IxDyD
+yD:F3F
+ 3FyD:F
+8F1F"F+F
+	J@F)F#FzD
+&I&KyD{D
+KzD{D
+IxDyD
+*H*M+LxD}D*I|D
+ *F#F
+'I'O
+ #FyD*F
+D?h;h
+(F!F
+I|DyD"F
+ "FyD
+ ~D(I}D(OyD2F+F
+ +FyD2F
+D?h;h
+0F)F
+M}D+h
+yD2F
+ yD2F+h
+0F)h"F
+I"FyD
+ ~DAI}D
+FyD2F+F
+ +FyD2F
+<HxD
+0F)F
+&1Hd
+zD1FxD?
+ FIF
+ F9F
+M|D$h$0}D!h
+ #FyD
+ *F#FyD
+(F!F
+"yD{D
+"F#F
+}D^H
+ F>FGF
+~D2F
+#HxD
+ F>F
+IFKFzD
+>FGF
+ 5M6L}D6I|D6NyD*F#F
+ #FyD*F
+~D6h3h
+(F!F
+ (I#F}DyD*F
+ *FyD#F
+(F!F
+ J!F K
+ zD{D
+IyD	h
+I|DyD*F#F
+ yD#F
+(F!F
+L|D$h
+I}DyD*F
+8F1F
+!*F+F
+)Fx"0FO
+`u`5b
+cuc5e
+I}DyD2F+F
+ 2FyD+F
+0F)F
+"}D(F
+DvI~D
+yD:F3F
+ :FyD3F
+8F1F*FCF
+ jKAFzD{D
+ hI+F~DyD2F
+eIyD%
+!}D(F
+ bI+F~DyD2F
+`IyD
+!}D(F
+ \I+F~DyD2F
+ZIyD2F
+0F)F
+ SI}DyD*F
+ *FyD
+LHxD
+ KI}DyD*F
+ *FyD
+@Ic 
+>HxD
+ <I}DyD*F
+ *FyD
+ TJUK|DzD{D
+ QI#F}DPNyD*F
+ *FyD#F
+~D6h7h
+(F!F
+HLHM|D}D F
+BMCL}DCI|D
+ *F#F
+ #FyD*F
+(F!F:F
+4M5L}D|D
+1I*FyD
+)I#FyD
+!F2F
+KzD{D
+KzD{D
+KzD{D
+8O9M
+D9I}D9NyD:F+F
+4I+F:FyD
+~D6h3h
+ F&M
+&I}D
+yD*F
+!I*F
+" FO
+ GM~DGI}DGOyD2F+F
+ +FyD2F
+D?h;h
+0F)F
+>HxD
+ <I|DyD"F
+ "FyD
+.N/M~D}D
++I2FyD
+#I+FyD
+)F"F;F
+"F+F
+ 0L}D0I|D0NyD*F#F
+ #FyD*F
+~D6h3h
+(F!F
+'I8FyD
+%I8FyD
+#H$LxD|D
+#I8FyD
+!I8FyD
+LxD|D!F
+I|DyD*F#F
+ *FyD#F
+(F!F
+FyD:FCF
+ CFyD:F
+~D6h3h
+8FAF
+I"FKFyD
+I}DyD:F+F
+ :FyD+F
+8F)F
+I FyD
+I FyD
+I}DyD:F+F
+ :FyD+F
+8F)F
+I FyD
+I FyD
+"hFyD
+"}D*p
+(F!FJF
+DxI}DyD:F+F
+ +FyD:F
+8F)F
+oI FyD
+eId 
+FcHxD
+FaI FyD
+ _I|DyD"F
+ "FyD
+VHxD
+UI FyD
+SHxD
+d !FJF
+ LI+F|DyD"F
+ "FyD+F
+ F)F
+ CL}DCI|DyD*F#F
+ #FyD*F
+(F!F
+ :L}D:I|DyD*F#F
+ *FyD#F
+(F!F
+I|DyD"F
+ "FyD
+I|DyD"F
+ "FyD
+)F"F
+ iM~DiI}DiLyD2F+F
+ +FyD2F
+|D$h#h
+0F)F
+ [I~DyD2F
+ 2FyD
+TNYF
+"~D0h
+ OI~DyD2F
+MI2F
+10hzD
+DEI~DyD:F3F
+BI3F
+ yD:F
+8F1F
+=N~D0h
+ 0`,
+ :I}DyD*F
+ *FyD
+QF*F
+ $I}DyD*F
+ *FyD
+F:F!FxD
+I;FxDyD+
+ }DyD*F
+ yD*F
+(F!F
+ F9F
+3xDyD
+R|D$h
+R|D$h
+P|D$h
+R|D$h
+?I F
+%~D0F
+*N+F*I~D
+ 2FyD+F
+$JzD
+0F)F
+*FyD
+5 6{-
+4j8F
+HyDxD
+yD*F#F
+ #FyD*F
+(F!F2F
+gHgIxDyD
+"c!	
+TI(FyD
+OI(FyD
+MI(FyD
+HI(FyD
+DDI~D
+yD:F3F
+ :FyD3F
+8F1F*F
+}D I
+ 2F+FyD
+ +FyD2F
+0F)F"F
+I|DyD*F#F
+ #FyD*F
+(F!F
+IxDyD
+! "#F
+ #FyD*F
+D?h;h
+(F!F
+!\"$
+pxD2F
+yD2F
+!\"$
+ ~I2F$
+ 2FyD$
+aHbJ$
+1F\"$
+ 2FyDCF
+ 2FCFyD
+0FAF*F
+R~)F
+p/Fb]1F
+$JxDzD
+I FyD
+)F F
+I FyD
+FIL\"
+!|D'
+8F"F
+;I8FyD
+9H"F9LiFxD8O
+|D7I
+ "FkFyD
+ "FyDkF
+D?h8h
+ FiF
+.IhFyD
+I|DyD"F
+ "FyD
+0F)F
+"|D$h h
+IjF(FyD
+ JL}D-h|D)h"F
+GIyD
+ "FyD
+DHxD
+|D=JyDzD
+;I<J
+yDzD
++JyDzD
+*I|DyD"F
+"FyD
+&I&J
+yDzD
+"FyD
+"FyD
+xDzD
+I}DyD*F
+ *FyD#F
+IyD	h
+(F!F
+}D-h(h3
+"FyD
+5NyD
+~D6h7h
+ "FyD
+yD"F
+JxDzD
+!," F
+ :F3FyDkM
+ 3FyD:F
+}D-h+h
+8F1F
+dI0FyD
+aHbIbJxDyDzD
+F8HxD
+5L5I|DyD"F
+1I"FyD
+$L%I|DyD"F
+!I"FyD
+JxDzD
+F~D6h3hI
+=HxD
+<H<I=JxDyDzDc
+)F2M
+ *F#FyD
+ +O#F
+yD*F
+D?h8h
+ (F!F
+#M F
+}D I
+0*FyD
+ yD*F
+xDzD
+D?h;hI
+)HxD
+(H(I)JxDyDzD:
+%N(F
+)F~D
+ 2F#FyD
+ 2FyD#F
+IyD	h
+0F!F*F
+xDzD
+F}D-h+hE
+'HxD
+&H&I'JxDyDzD7
+ "FyD
+JxDzD
+L}D-h|D)hE
+ "FyD
+yD"F
+JxDzD
+L}D-h|D)h/
+ "FyD
+yD"F
+JxDzD
+L}D-h|D)hE
+ "FyD
+yD"F
+JxDzD
+JxDyDzD*
+ "FkFyD
+ kFyD"F
+ FiF
+JiFxDzD
+ M!H}D-hxD+h/
+JxDyDzD&
+ "FyD
+IyD	h
+JxDzD
+F~D6h3hI
+=HxD
+<H<I=JxDyDzDc
+)F2M
+ *F#FyD
+ +O#F
+yD*F
+D?h8h
+ (F!F
+#M F
+}D I
+0*FyD
+ yD*F
+xDzD
+D?h;hG
+M!F}D
+ *F3FyD
+ *FyD3F
+IyD	h
+(F1F"F
+JxDzD
+D?h F
+M~D9h}D#
+KyDzD{D
+ 2FyD+F
+ +F2FyD
+0F)F"F
+PL|D
+OI"FyD
+JI"FyD
+GHxD
+0F!F*F
+HF!F*F3O
+/N/M~D}D
+-I2F+FyD
+(I2F+FyD
+ 2F+F
+ +FyD2F
+0F)FBF
+@F!F*F
+I}DyD*F
+ *FyD
+zMzI}DyD*F
+vI*FyD
+oIsX
+fIHFyD
+ bMbI~D}DyD2F+F
+_IyDB
+ _I~DyD2F
+ 2FyD
+)F F
+GVOVI
+QIyDV
+PIHF
+ LMLI~D}DyD2F+F
+IIyD
+ +F2F
+0F)F
+ ?I~DyD2F
+ 2FyD
+)F F
+G6O6I
+1IyD
+ :F3F
+8F1FBF+F
+PN~D
+ ML}DMI|DyD*F#F
+ #FyD*F
+HIpX
+(F!F
+ u|D
+ u|D
+%|D F
+;O;M
+9I:F+FyD
+3I:F+FyD
+'H3X
+)F"F
+#K$M{D
+F#F*F
+#yD#F*F
+(F!F
+JxDyDzD
+MyD:F
+ :FyD3F
+}D-h(h
+8F1F
+I2FyD
+ 2FyD#F
+0F!F
+IyD$
+IyD	
+"FyD
+"FyD
+"FyD
+tIuKyD{D
+tItKyD{D
+~DpI
+02FyD
+0yD2F
+!FdL-
+ "FyD-
+ "FyD-
+ XI|DyD"F
+ "FyD
+"yD{D
+CICKyD{D
+BICKyD{D
+>JxDzD
+JxDzD
+-N.M~D.I}DyD2F+F
+ 2FyD+F
+'IyD	h
+0F)F"F
+"H"IxDyD/
+ H!IxDyD(
+IxDyD!
+IxDyD
+IxDyD
+IxDyD
+IxDyD
+IxDyD
+;I|D;NyD"F
+ "FyD
+~D6h3h
+F-HxD
+)L*I|DyD"F
+&I"FyD
+I|DyD"F
+I"FyD
+D(I~D(MyD
+F:F}D
+ 3F:FyD
+!HxD
+8F1F*F
+IF"F(F
+"0FyD
+sHsIxDyD
+}D-h
+DyDJF
+ JFyD
+DyDJF
+ JFyD
+#F8F
+"oFHF
+ EI~DyD2F
+ 2FyD
+ 4I|DyD"F
+ "FyD
+ *I#F~DyD2F
+ 2FyD#F
+0F!F
+!H!I"JxDyDzD
+ H!I!JxDyDzD
+}DyD2F+F
+ +FyD2F
+|D$h#h
+0F)F
+I8FyD
+JxDyDzDM
+	9F*F
+"GUHF
+I}DyD*F
+ *FyD
+IxDyD
+I~DyD2F
+ 2FyD
+I~DyD2F
+ 2FyD
+!!"N
+"0FyD
+0FzN
+~DxI
+ 2FyD
+ 2FyD
+ kI~DyD2F
+ 2FyD
+(F^M
+}D(F
+XOYN
+WI:F3FyD
+QI:F3FyD
+1F*F
+ FI+F~DyD2F
+ +FyD2F
+0F)F
+=H=I>JxDyDzD
+<H=I=JxDyDzD
+ 8I}DyD*F
+ *FyD
+ }D2I|D2OyD*F#F
+ #FyD*F
+D?h;h
+(F!F
+1h	 
+!|D F
+#M}D
+!I*F#FyD
+I*F#FyD
+(0`(F
+ }DHI|DHNyD*F#F
+ #FyD*F
+~D6h3h
+(F!F
+r|D F
+8M}D
+7I*F#FyD
+1I*F#FyD
+AF:F
+"I:F#FyD
+I:F#FyD
+F(F!FO
+I|DyD*F#F
+ yD*F
+I|DyD*F#F
+ yD*F
+(F!F
+TE~D6h
+0hyD"F
+ "FyD
+}D-h
+|DyD"F
+ "FyD
+!|D F
+DyD:F
+ :FyD#F
+8F!F
+|DyD
+"FyD
+ "FyD
+3F|DyD"F
+|DyD"F
+ "FyD
+xDyD
+3F|DyD"F
+ "F3F
+ F1F
+I|DyD"F
+ "FyD
+I;F|DyD"F
+ "FyD;F
+ F9F
+"9FxD
+I|DyD"F
+ "FyD
+ FYF
+FyD:F
+IyDK
+WYF@
+DyD:F
+ :FyD
+DyD:F
+ :FyD
+FyD:F
+DyD:F
+ :FyDCF
+8FAF
+FyD:F
+ :FyD
+~DyD2F
+ 2FyD
+8F1F
+4&F`O
+DyD:F
+ :FyD
+ }DNI|DNNyD*F#F
+ #FyD*F
+~D6h3h
+(F!F
+AHxD
+ @I|DyD"F
+>IyD
+ 5I|DyD"F
+3IyD
+ -I|DyD"F
+ "FyD;h
+ F9h
+ %L}D%I|DyD*F#F
+ *FyD#F
+(F!F
+I|DyD F
+ .L}D.I|DyD*F#F
++I#F
+ yD*F
+)K{D
+ #L}D#I|DyD*F#F
+!I#F
+ yD*F
+(F!F
+0FAF
+)FBF
+ F9FED
+9FRF
+#}DU
+|DyD"F
+ "FyD
+d~D0x
+|DyD F
+~D#hyD2F
+ 2FyD#h
+0F!h
+@dxD
+h!h~D
+xyD2F
+!h0F	x
+JyDzD
+L|D h
+L|D h
+JyDzD
+JyDzD
+I|DyD"F
+ "FyD
+L|D h
+L|D h
+JyDzDc
+JyDzD[
+I|DyD"F
+ "FyD
+JyDzD4
+JyDzD
+JyDzD
+JyDzD
+DyDBF
+ BFyD
+JyDzD
+I|DyD"F
+ "FyD
+JyDzD
+"F{DD
+I|DyD"F
+ "FyD
+JyDzD
+I|DyD"F
+ "FyD
+JyDzDg
+DyD:F
+ #FyD:F
+8F!F
+1FvN
+~D"F
+oI0hyD	hnL
+mI|DyD"F
+ "FyD3F
+ F1F
+dL2FdH
+#|DcI
+yD	h h
+^J!hzD
+DyDBF
+ BFyD
+" H1F}D
+xD"F
+JyDzD
+JyDzD
+JyDzD
+L}D|D
+I*F#FyD
+ *FyD#F
+IyD	h
+(F!F:F3F
+8F1F
+fHxD
+	"cOxD
+_IeX
+ZL\"hF
+|DXI
+ "FyD
+ "FyD
+QHiFQJxDzD
+ MIkF|DyD"F
+ kFyD"F
+ FiF
+ >IW
+|DyD"F
+ "FyDW
+2H3J
+xDzD-
+)F1M
+}D/I
+ *FW
+ *FyDW
+"H"J
+!xDzD
+9HxD
+7H8I8JxDyDzDb
+ jF0M
+}D.I*FyD
+ #FyD*F
+(K{D
+(F!F
+JxDyDzD
+JxDyDzD
+JxDzD
+JxDyDzD
+}D-h
+"+h/F
+|D$h
+I%`yD
+I%`yD
+I%`yD
+I&`yD
+  `yD
+xDzD
+(F!F
+"(FyD
+F@I1"
+yD;h
+6IyD
+"4LxD
+|D$h
+ yD*F
+0yD*F
+I}DyD*F
+I}DyD*F
+ENFO~D
+DI2F+FyD
+ +FyD2F
+D?h;h
+0F)F
+ :I#F~DyD2F
+ 2FyD#F
+0F!F
+ "I+F~DyD2F
+ 2FyD+F
+0F)F
+I#F}DyD*F
+ *FyD#F
+(F!F
+F@F)F
+ 0I;F}DyD*F
+ ;FyD*F
++IyD	h
+(F9F,
+I#F}DyD*F
+ #FyD*F
+IyD	h
+(F!F
+I0FyD
+MHMINJxDyDzD
+ LIA
+}DyD*F
+ *FyDA
+=H>J
+xDzDR
+ )FA
+ 7IA
+}DyD*F
+ *FyDA
++H"X
+$H%I%JxDyDzD
+"IyD
+!H"I"JxDyDzD
+!H!I"JxDyDzD
+ *F#F
+ #FyD*F
+(F!F2F
+b!xD
+pyD	h
+ F)F
+5F(F!F&F
+=uCQ
+J{DzD
+-!JF
+)F"FKF
+)F"F
+AIyD	h
+:F)FXC
++O+I-#
+'M}D
+%I*F#FyD
+#I*F
+ yD#F
+D?h:h
+(F!F
+I3F"F
+ "FyD3F
+ F1F
+ )FE
+~DPI
+ PM2FyDE
+ 2FyDE
+BHBICJxDyDzD^
+AHBIBJxDyDzDW
+}D=I
+ *FyD
+xD2L2N
+`|D2M~D!F}D(F
+ 2FyD+F
+ +F2FyD
+0F)F"F
+"H#J
+xDzD
+<!XF
+!~D;h
+1FzD
+}D(`
+I~DyD2F
+ +hyD2F
+yI`X
+0F)h
+"}D(F
+)FzD
+ oI}DyD*F
+ *FyD
+dH#X
+"}D(F
+)FzD
+ \I}DyD*F
+ *FyD
+JH#X
+"}D(F
+)FzD
+ JI}DyD*F
+ *FyD
+1H#X
+"}D(F
+)FzD
+ 7I}DyD*F
+ *FyD
+1N1M~D6h1L}D1I0h|DyD*F#F/OG
+ #FyD*F
+D?h;h
+(F!F
+yD"F
+I|DyD"F
+ "FyD
+3h@F
+M~D6h
+}D0h|D
+I*F#F
+ #FyD*F
+(F!F
+yD	h{D
+'F&F+
+(FIF
+"yDcX
+DyDJF
+~IyDL
+DyDJF
+sIyD,
+nIoHyDxDs\
++0#X
+DyDJF
+bIyD
+"(FO
+\H\IxDyD2\[Hs\xD
+,0#X
+PFPI
+DyDJF
+NIPFyDJF
+ |DyD"F
+ "FyD
+ MMNL}DNI|DNNyD*F#F
+ #FyD*F
+~D6h3h
+(F!F
+ CI}DyD*F
+AIyDb
+@K{D
+ <I|DyD"F
+:IyD.
+7HxD
+ 3I|DyD"F
+1IyD
+0IyD	h
+ ,I|DyD"F
+*IyD
+%K{D
+ !I}DyD*F
+,F Fp
+I|DyD*F#F
+ *F#FyD
+(F!F
+	|D}D~D
+I*FSFyD
+ *FyDSF
+(FQF
+D[FrD
+IyD	h
+YF}D*F
+I*FyD
+xM}D(h
+*hsI
+TpHxD@
+gK{D
+$eMeK
+}D{DZF
+|D!h
+DyD+F
+D?h,
+"L+F"I
+ |DyD"F
+ "FyD+F
+IyD	h
+ F)F
+I0FyD
+2yD,
+ #FyD*F
+~D6h3h
+(F!F
+D?h|D$h;h#
+}L)F
+ wI#F}DyD*F
+ *FyD#F
+(F!F
+|D!F
+|DyD"F
+ "FyD
+|DyD"F
+ "FyD
+CIyD
+@IyD$
+?IyD
+<M h}D<I
+yD*F
+#h9I*F
+yD;h
+(F9h"h
+2IyD?
+1H1JxDzD
+-H.JxDzD?
+%&I~D6hyD*F0h	
+8FiF
+I#F}DyD*F
+ *FyD#F
+(F!F
+ F3h
+ -I3F}DyD*F
+ 3FyD*F
+(HxD
+(F1F
+$IyD5
+ "I+F~DyD2F
+ 2FyD+F
+0F)F
+IyD F
+|D&I
+yD"F
+~D6h3h
+I+F|DyD"F
+ +FyD"F
+ F)F
+|D&I
+yD"F
+~D6h3h
+I+F|DyD"F
+ +FyD"F
+ F)F
+"'XE
+ )F!
+ )F$
+DI(FyD
+<H<I=JxDyDzD]
+ ;I+F~DyD2F
+ 2F+FyD
+6H#X
+0F)F
+3H3JxDzD>
+,H,I-JxDyDzD+
+(H#X
+'IyD
+"IyD
+!IyD
+ IyDE
+JxDzDE
+F&F'F(
+ |DyD"F
+ yD"F
+ F)F
+!}D-h
+(m-N
+~D6h
+ +I#F}DyD*F
+ *FyD#F
+(F!F
+"I7F
+ AF2F05#F
+ 2FIF#F
+0F!F*F
+4K}D-h{D
+0IyD	h
+ .I;F|D.NyD"F
+ "FyD;F
+~D6h2h
+ F9F
+I;F|DyD"F
+ ;FyD"F
+ F9F
+6H7JxDzDR
+}D2I
+ *FA
+ *FyDA
+%H%JxDzD!
+$H#X
+"IyD
+JxDzD
+~HandleMessageFromRilATD
+MakeAtdToolServer
+HandleAcceptClient
+MakeLocalServer
+CopyReceivedData
+ConnectToUart
+InitSocketAcceptHandler
+InitSocketMessageHandler
+DisconnectToUart
+SocketRemove
+SetSerialNO
+AT_Distributor
+%s(%d) si_code [0x%08X]
+hardware/ril/atd/atd.c
+RIL_ATD
+%s(%d) user generated signal via sigqueue()
+%s(%d) user generated signal via kill() or shell command
+%s(%d) asynchronous I/O completion or timer expiration (%d)
+%s(%d) Sender's PID [%d]
+%s(%d) Signal Number [%d]
+%s(%d) User Data is [%d]
+ril.atd_status
+%0004d_%02d
+ATD_CONDITION is wrong!
+atd status is wrong!
+%d_%d
+%s(), %s
+/data/misc/radio/uart.txt
+there is no uart setting file. so set ap uart mode
+/data/misc/radio
+IsUartUsingAP is %s
+ATRILClient
+gUartPath = %s
+/proc/consoles
+can't open console proc file
+UART %s is used by console
+UART %s is not used by console
+%s()
+ril.serialnumber
+ril.manufacturedate
+ril.barcode
+/efs/FactoryApp/serial_no
+SERIALNO: %s
+%s: %s
+Failed to Send Msg [ %s >>> %s ]   %d bytes <%s>
+(\n)
+(\r)
+(\b)
+%s ...
+%s %02X
+Send Msg [ %s >>> %s ]   %d bytes <%s>  <%s>
+%s() from %s
+Failed to Send Msg : check uart mode is %s.
+UART
+/sys/power/wake_unlock
+diag_wakelock
+Received(UART:%d) : %s
+Remove JIG Control(%d) : %s
+Failed to Send Msg
+Pending Message: %s
+Can't append to buffer(buffer overflow) : stored length (%d), received length(%d)
+Failed to Send Msg : Factory App was crashed!
+am broadcast -a com.sec.atd.request_reconnect
+Failed to Send Msg : Factory App is not ready. So this command would be sent to FactoryApp after Booting Completed Message
+%s(): %s, id(%d), fd(%d)
+%s(): %s Communication: Server_socket %d
+Can't Disconnect Uart
+Buffer crashed : gReceivedLength(%d), length(%d)
+/data/log/bufferCrashed.log
+uart connection is broken (%s: %d)
+/data/log/uartlost.log
+connect to local socket fd : %d
+%s(): timeout
+Get SIGPIPE and Handle the signal using SignalHandler
+AtdToolApp
+Can't make local server(%s)
+FactoryClientRecv
+FactoryClientSend
+at_d restarted, send intent to factory app
+first start
++UART READY
+Failed to init ATD
+gPendingCommand: %s
+%s(): Send pending messsage success (%d)
+%s(): Send pending messsage fail (%s: %d)
+DiagApp
+%s() : %s
+Can't remove a client : %s, %d
+There was no dia_app. so do not change uart path
+%s(): fail to send %s because of %s(%d)
++CPUART
++APUART
+%s() wrong uart path
+>>>>> %s >>>>>
++CPUART_RELEASED
++CPUART_RELEASED_FROM_PGM
+BOOTING COMPLETED
+PLATFORM RESETED
+/data/log/rebootcomplete.log
+RIL_RESET
+RIL RESET!!! reconnect to RIL
+UART_SWITCH
+error!! unvaild client id : %d
+<<<<< %s <<<<<
+!<<<<< %s <<<<<
+tcgetattr
+tcsetattr
+CloseSerial fp < 0
+tcsetattr < 0
+Transport file name: %s
+%s: [%s] open - fd: %d, errno: [0x%x,%s]
+%s: SetSerialParms - fd: %d, errno: [0x%x,%s]
+115200
+try to connect RIL
+connection fail & retry connect
+%s: RegisterUnsolicitedHandler() error
+connection success
+connection fail and retry
+can't connected to ril
+Reconnect to RIL : %s
+AT+FAILDUMP
+g_LastCommandIndex : %x
+%02X
+ril.factory_cmd
+/sys/block/mmcblk0/device/name
+%s() : memory_name = %s
+/sys/block/mmcblk0/device/cid
+%s() : unsupported memory id %s
+%s() : hex_UN = %s
+ro.product.model
+ro.product.device
+ro.product.device : %s
+SAMSUNG-
+property_value : %s
+/efs/imei/mps_code.dat
+ro.build.PDA
+%s() :hex_string_unique_number = %s 
++HEADINFO:1,
+Unique Number
+sendHeaderInfoShow()
+Model Name
+Country/customer
+Customer Code
+/system/csc/sales_code.dat
+/efs/imei
+Date
+Charger
+S/W version
+Memory Name
+Sec Code
+HEADINFO : %d
+Year : %4d, Month : %2d, Day : %2d, Hour : %2d, Min : %2d, Sec : %2d, Day of week : %d
+%04d%02d%02d%02d%02d%02d%01d
+GetRTC : %s
++RTCCTEST:1,
+SETRTC : %s
++CME Error:
+2,%04d,%02d,%02d,%02d,%02d,%02d,%01d
+/dev/alarm
+/dev/alarm open error: errno %d
+ioctl(ANDROID_ALARM_SET_RTC) error(%d)
++RTCCTEST:2
+/efs
++SETTESTNV:
+NO EFS
+idx : %d, data : %c
+SETTESTNV : %x
+%02d,%s
++GETTESTNV:
+idx : %d, response : %s
++SETFULLTESTNV:
+SETFULLTESTNV : %s
+response : %s
++GETFULLTESTNV:
++GETFULLHISTNV:
++LOGERASE:
++SETFULLFDATA:
+SETFULLFDATA : %s
++GETFULLFDATA:
++SETFDATA:
+idx : %d, value : %c
+SetFdata : %c
++GETFDATA:
+%s:%s
+%s() : modeChangeCommandToDiagApp : %s
+/efs/redata.bin
+/efs/hdcp13.bin
+key file open fail. %s.
+%s: write failed with %s
+%s: write done (%d)
+ConvertAscii2Hex error
+/system/lib/libseckeyprov.so
+dlopen failed: %s
+InstallHDCPKey
+InstallHDCPKey NOT defined or exported in %s
+hdcp_key defined.
+ret: %d, path: %s, hex_size: %d
+InstallWidevineKeybox
+InstallWidevineKeybox NOT defined or exported in %s
+widevine_key defined.
+/efs/hdcp.keys
+/efs/wv.keys
+%s: there is no match reserved version
+%s: stat failed on %s. %s.
+invalid size %s, %lld bytes.
++HDCPTEST:
+attr : %d
+reserved_version : %d
+/data/misc/radio/hatp/check_result
+%d,%s
+%d,NG_KEY
+/data/misc/radio/hatp/check_result_13
+%d,NG
+%d,NG_FIELD
+%d,OK
+ro.serialno
+serialNO = %s, %d
+returnValue = %s, %d
+enc mode(1:plain, 2:enc) : %c
+Key : %s
+write hdcp key 1.3
+%s(): Set Property ril.factory_mode : %d
+ril.factory_mode
+WIFI
+LCiA
+FINAL
+IMEI
+InitRTC
+%s(%s)
+hardware/ril/atd/commandimplementation/CPRMKEYTEST.c
+%02x
+/efs/imei/.nvdevicekey.info
+ONESEG_DEVICE_KEY_PATH open error.
+ONESEG_DEVICE_KEY_PATH file open OK.
+Checking device key integrity..
+Device key is invalid!
+Compare result = %d
++CPRMTEST:0,
++CPRMTEST:1,
+Device key is valid.
+Set encrypt key
+Encrypted device key
+%s(): chmod(%s) error - %s
+Write result = %d
++CPRMTEST:2,
+ERROR
+/efs/00000000.authtokcont
+open error: %s (%s)
+write failed : %s (%s)
+%s() read error
+%s() EOF
+[SECURE_OS] start thread
+malloc fail!!
+/system/lib/libgdmcprov.so
+%s dlopen() error!!!
+GDMCProvInitializeLibrary
+GDMCProvSetAuthTokenCallbacks
+GDMCProvBeginProvisioning
+GDMCProvEndProvisioning
+GDMCProvExecuteProvisioningStep
+GDMCProvShutdownLibrary
+Initializing GDMCProvLibrary...
+GDMCProvInitializeLibrary ERROR!! : 0x%X
+SetAuthTokenCallbacks...
+GDMCProvSetAuthTokenCallbacks ERROR!! : 0x%X
+Acquiring provisioning handle...
+GDMCProvBeginProvisioning ERROR!! : 0x%X
+SecureOS
+[SECURE_OS] failed to accept.
+[SECURE_OS] socket error
+Next message to be sent back contains %u byte(s):
+Trying to send...
+ERROR (send).
+OK. (%d)
+GDERROR_PROVISIONING_DONE : exit
+ABOUT: maximum number of errors occurred. Giving up.
+ERROR: Provisioning error code %u occurred - trying to recover by continuing the loop.
+[SECURE_OS] exit thread
++%s()
+pthread_create() secure_os_loop error
+secure_os_loop connection fail!!
+*pSecureOS_fd : %d
+-%s()
++SECUREOS:%d,
+%s() error!
+=== SECURE_OS_INIT ===
+secure_os_loop_fd : %d
+SecureOSInit ===> %c
+=== SECURE_OS_TERMINATION ===
+=== SECURE_OS_VERIFY ===
+=== SECURE_OS_READ / WRITE ===
+Secure OS :: fail to read authtoken
+Secure OS is not initialized
+data length fail
+SecureOS_Data_Length : %d
+READ : %d
+=== SECURE_OS_FORCED_WRITE ===
+%s() : attr = %d, mode = %d
+am broadcast -a android.intent.action.CSC_MODEM_SETTING --es MODE COMPARE_VERIFY_MODEM
+CscFeature_RIL_ReplaceImeiSalesCodeAs
+[LTN] PRECONFIG_OPERATION: TFG sales_code should be changed
+ril.product_code
+[LTN] product_code : %s
+read sales code : %s
++PRECONFG:
+write  sales code : %s
++PRECONFG:2,OK
++CBLKFTDF:
+CBLKFTDF param1 : %d
++CBLKFTDF:0,
+/efs/FactoryApp/cblkftdf
++CBLKFTDF:1,
+DBG_LOW
+DBG_MID
+DBG_HIGH
++PRINTLOG:
+FFFFFFFFFF
+TA_Loader
+SwitchToAuthMode result = %d
+Can't connect to ta_loader
+SwitchToAuthMode failed!!
+write_msl: msl_address %s
+write_msl: msl_code %s
+write_msl: ret_code_address %d
+write_msl: ret_code_mslcode %d
+read_msl: ret_code %d
+cop_util_find_parameter: ret_code %d
++MSLSECUR:
+1,0000000000
+read MSL code : %s
+1,%s
+write MSL code : %s
+%s() - %d
+%ld%c%ld%c%ld
+%ld%c%d%c%ld
+Enc_Num : %s
+Ak : %s
+received_ak_number : %s, ak_num : %s
++AKSEEDNO:
+0,OK
+0,NG
+val.tv_usec: %ld
+Encoded_Number : %s, ak_num : %s
+<UnlockCnt>
+unlock count : %d
+<NetworkLock>
+NETWORK lock is existed
+<SubsetLock>
+NSP lock is existed
+<SPLock>
+SP lock is existed
+<CPLock>
+CP lock is existed
+cops_bind_properties is not COPS_RC_OK
+Wrong Network Lock Info
+Wrong Subset Lock Info
+Wrong SP Lock Info
+ret_code is not COPS_RC_OK
+reset_cops_simlock_data return value is not COPS_RC_OK
+Network Lock return value is not COPS_RC_OK
+NSP Lock return value is not COPS_RC_OK
+SP Lock return value is not COPS_RC_OK
+CP Lock return value is not COPS_RC_OK
+SubsetLock : %s
+gid1 = %d
+ret_code is not COPS_RC_ARGUMENT_ERROR
+level of lock: ret_code %d
+%08X
+param: %s
+NG NEEDMSLAKAUTH
+NG NEEDMSLAUTH
+NG NEEDAKAUTH
+%s is not existed
+/system/csc/
+customer.xml
+customer_path : %s
+NWLOCK FAIL
+AK_Auth_Value : %d, MSL_Auth_Value : %d
+NG UNKNOWNSTATUS
++LVOFLOCK:
+WriteMCKAttempts: ret_code %d
+VerifyLockKey: ret_code_mck %d
+MASTER FAIL
+VerifyLockKey: ret_code_keys %d
+SUBSETLOCK FAIL
+SPLOCK FAIL
+CPLOCK FAIL
+SIMLOCK FAIL
+mck.value : %s
+WriteLockKey: ret_code_mck %d
+keys.nl_key.value : %s
++DETALOCK:
+response : %s
+2,OK
+cops_context_create: ret_code %d
+read_imei: ret_code %d
+IMEI[%d] = %c
+bind_property: %s
+WriteIMEI: ret_code %d
+NONE
++IMEITEST:
+write  IMEI number: %s
+Invalid IMEI
+SendDiagCommand
+SetAtdStatus
+SaveUartStatus
+HandleMessageFromUart
+ListenFD
+WriteToFactoryApp
+AssembleUartMessage
+HandleDiagRequest
+WriteToUart
+HandleMessageFromClients
+HandleFactoryRequest
+ConnectToRil
+sendHeaderInfo
+get_hex_string_unique_number
+get_memory_name
+get_cid
+MODECHAN
+0000000000000000
+CheckDRMFactoryKey_size
+WritePlainKey
+FACTOLOG
+uri://google.com
+BinarytoString
+writeDeviceKey
+secureos_socket_read_func
+StringToArray
+SecureOSInit
+WriteAuthTokenProc
+ReadAuthTokenProc
+MITSRFTS
+42beedc1,6ae,11e0,85,31,00,02,a5,d5,c5,1b,000000
+	#	%	+	/	5	SetAKAuthValue
+44444444
+					
+SetLock
+SetLevelOfLock
+reset_cops_simlock_data
+MakeLockCode
+AT+SYSSLEEP
+AT+MAXPOWER
+AT+SIMDETEC
+AT+CALIDATE
+AT+BANSELCT
+AT+PRODCODE
+AT+SCMMONIT
+AT+READRSSI
+AT+SECNRSSI
+AT+TESTMODE
+AT+GPSSTEST
+AT+LIFETIME
+AT+TEMPTEST
+AT+VERSNAME
+AT+GRIPSENS
+AT+KSTRINGB
+AT+RECONDIT
+AT+IMEICERT
+AT+AOTKEYWR
+AT+CHNSELCT
+AT+BAKUPCHK
+AT+MEIDAUTH
+AT+NAMCHECK
+AT+PRLVERIF
+AT+ERITTEST
+AT+IMEIRDWRITE
+AT+XGENDATA
+AT+CFUN
+AT+CHCMDINT
+AT+XRXDIV
+AT+CALLCONN
+AT+SVCBANDB
+AT+COPS
+AT+XL1SET
+AT+XLOG
+AT+HEADINFO
+AT+RTCCTEST
+AT+SETTESTNV
+AT+GETTESTNV
+AT+SETFULLTESTNV
+AT+GETFULLTESTNV
+AT+GETFULLHISTNV
+AT+LOGERASE
+AT+SETFULLFDATA
+AT+GETFULLFDATA
+AT+SETFDATA
+AT+GETFDATA
+AT+MODECHAN
+AT+HDCPTEST
+AT+FACTOLOG
+AT+FACTORST
+AT+LIFETIME
+AT+MITSRFTS
+AT+PRINTLOG
+AT+PRECONFG
+AT+CPRMTEST
+AT+SECUREOS
+AT+CBLKFTDF
+AT+MSLSECUR
+AT+AKSEEDNO
+AT+LVOFLOCK
+AT+DETALOCK
+AT+IMEITEST
+AT+STARTINDEX
+AT+HEADINFO
+AT+VERSNAME
+AT+POWRESET
+AT+SYSSLEEP
+AT+MAXPOWER
+AT+FCBTTEST
+AT+FCMPTEST
+AT+FCFMTEST
+AT+FCEPTEST
+AT+FCESTEST
+AT+RTCCTEST
+AT+TEMPTEST
+AT+LCDCNTST
+AT+SPKSTEST
+AT+DISPTEST
+AT+CAMETEST
+AT+VIBRTEST
+AT+HAICTEST
+AT+LOOPTEST
+AT+SIMDETEC
+AT+GPSSTEST
+AT+DVBHTEST
+AT+MFLOTEST
+AT+WIFITEST
+AT+EMEMTEST
+AT+IMEMTEST
+AT+BATTTEST
+AT+SWDLMODE
+AT+MAINMENU
+AT+ACSENSOR
+AT+LIGHTEST
+AT+USBCHANG
+AT+OPTMOUSE
+AT+FIRMVERS
+AT+KEYLIGHT
+AT+MODECHAN
+AT+PORTCHAN
+AT+TOUPTEST
+AT+BTIDTEST
+AT+WIFIIDRW
+AT+MSLSECUR
+AT+IMEITEST
+AT+AKSEEDNO
+AT+DRAMTEST
+AT+PRODCODE
+AT+CALIDATE
+AT+LVOFLOCK
+AT+DETALOCK
+AT+FUELGAIC
+AT+GEOMAGSS
+AT+FSBUILDC
+AT+TVOUTPUT
+AT+KEYULOCK
+AT+SERIALNO
+AT+BANSELCT
+AT+KEYSHORT
+AT+MITSRFTS
+AT+CONTSIZE
+AT+CMLATEST
+AT+USBMODEC
+AT+FACTORST
+AT+RSTVERIF
+AT+PRECONFG
+AT+PROXIMIT
+AT+TDMBTEST
+AT+BATTCALI
+AT+LTEMADDR
+AT+WIMXRFTS
+AT+LOCKCODE
+AT+SIMSWITC
+AT+LOCKREAD
+AT+UARTSWIT
+AT+GRIPSENS
+AT+PROJECTO
+AT+HWINDICK
+AT+GYROSCOP
+AT+ATOKEYWR
+AT+LIFETIME
+AT+CHNSELCT
+AT+BAKUPCHK
+AT+MEMOSIZE
+AT+MEIDAUTH
+AT+LTEPOWER
+AT+ISDBTEST
+AT+ANALOGTV
+AT+HDMITEST
+AT+AROTATEC
+AT+FUNCTEST
+AT+KSTRINGB
+AT+FAILDUMP
+AT+FACTOLOG
+AT+SECNRSSI
+AT+NFCMTEST
+AT+READRSSI
+AT+LEDLAMPT
+AT+HDCPTEST
+AT+OTGGTEST
+AT+CPRMTEST
+AT+SCMMONIT
+AT+TOUCHKEY
+AT+MULFUNCF
+AT+MULFUNCS
+AT+CMMBTEST
+AT+VOUCHERC
+AT+TSPPTEST
+AT+SECUREBT
+AT+CBLKFTDF
+AT+NAMCHECK
+AT+BAROMETE
+AT+IMEITRAC
+AT+DEBUGLV
+AT+EWRITECK
+AT+TMNNTEST
+AT+IRLEDCHK
+AT+AOTKEYWR
+AT+PRLVERIF
+AT+ERITTEST
+AT+SECUREOS
+AT+RECONDIT
+AT+IMEICERT
+AT+DUALMODE
+AT+CBLKFTDF
+GCC: (GNU) 4.6.x-google 20120106 (prerelease)
+gold 1.10
+aeabi
+ARM v7
+.shstrtab
+.interp
+.dynsym
+.dynstr
+.hash
+.rel.dyn
+.rel.plt
+.text
+.ARM.exidx
+.ARM.extab
+.rodata
+.preinit_array
+.init_array
+.fini_array
+.ctors
+.dynamic
+.got
+.data
+.bss
+.comment
+.note.gnu.gold-version
+.ARM.attributes
